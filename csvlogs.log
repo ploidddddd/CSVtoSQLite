@@ -1,0 +1,5 @@
+Jun 11, 2020 2:24:28 AM csvtosqlite.CSVLoader logFile
+INFO: Following are the statistics :
+#300 of records received.
+#247 of records processed.
+#53 of records failed.
